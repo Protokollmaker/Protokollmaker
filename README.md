@@ -64,6 +64,7 @@ I'm an full-stack developer.
 <!--Desinge-->
 <div style="margin:0px 0px 0px 30px">
     <img alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img alt="blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 </div>
 </br>
 
@@ -72,8 +73,10 @@ I'm an full-stack developer.
 ## 📊 Stats
 
 <div style="margin:0px 0px 0px 30px">
+<!--https://github.com/anuraghazra/github-readme-stats-->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Protokollmaker&show_icons=true&bg_color=00000000)
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Protokollmaker) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Protokollmaker)](https://github.com/anuraghazra/github-readme-stats) |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
